@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ACP-table</title>
+</head>
+
+<body>
+    <table border="5" bgcolor="grey">
+        <tr>
+            <th bgcolor="blue" border="10">web development </th>
+            <th>Language</th>
+            <th>Discription</th>
+        <tr>
+
+        <tr>
+            <td> </td>
+            <td>HTML</td>
+            <td> hyper-text markup language </td>
+       <tr>
+
+       <tr>
+         <td>CSS</td>
+         <td>cascading style sheet</td>
+        <tr>
+
+        <tr>
+            <td> </td>
+            <td>JS</td>
+            <td>Javascript</td>
+        <tr>   
+    </table>    
+</body>
+</html>
+
+
+
+
+
